@@ -1,0 +1,37 @@
+Talon for Twitter:
+
+Features:
+
+1) Display Twitter content
+2) Enable user login
+3) Enable tweet creation
+
+Content Conditionals:
+
+1) If app is launched, display up-to-date tweets
+2) If tweet is clicked, display its contents
+3) Pressing the FAB button creates a new tweet
+4) User can delete a selected tweet
+5) Clicking various buttons (retweet, like, etc) will execute those functions
+6) User can swipe between pages for tmieline, mentions, direct messages, etc.
+
+
+
+Login Conditionals:
+
+1) User can log in to their account as expected
+2) Logging in is seamless and well-integraated
+3) The Twitter API must have enough tokens for users
+4) The Twitter server must be functional
+5) The app must be up-to-date with the latest Twitter features
+6) The login process must not break immersion
+
+User stories:
+
+1) As a user, I expect to be able to replace the official Twitter app with this one
+2) As a user, I expect to have the majority of Twitter's features at my disposal
+3) As a user, I want the app to look nice and function properly
+4) As a user, I expect to be able to deploy multiple accounts
+5) As a user, I expect that my login token will remain valid
+6) As a user, I expect to be able to manage my account from within the app
+
